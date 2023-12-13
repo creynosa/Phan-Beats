@@ -2,7 +2,6 @@
 venv
 .idea
 __pycache__
-run.bat
 music/*
 playlists.json
 music.rar
